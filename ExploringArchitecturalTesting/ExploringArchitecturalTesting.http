@@ -1,6 +1,0 @@
-@ExploringArchitecturalTesting_HostAddress = http://localhost:5109
-
-GET {{ExploringArchitecturalTesting_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
